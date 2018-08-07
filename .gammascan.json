@@ -1,0 +1,22 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.232:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin123"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "329452319a1c1ba97377a22e966e5a7e",
+			"projectName": "JenkinsPlugin_TS_DataTable",
+			"sources": {
+				"baseDir": "%WORKSPACE%"
+			}
+		},
+		"dataDir": "C:\\Shekhar-Acellere\\GitRepos\\TypeScript\\DataTable-dataDir",
+		"modules": {
+			"codeissues": [{
+				"name": "tslint"
+			}]
+		}
+	}]
+}
