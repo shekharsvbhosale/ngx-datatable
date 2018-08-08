@@ -12,7 +12,7 @@
 				"baseDir": "%WORKSPACE%"
 			}
 		},
-		"dataDir": "C:\\Shekhar-Acellere\\GitRepos\\TypeScript\\DataTable-dataDir",
+		"dataDir": "C:\\Users\\TypeScript\\DataTable-dataDir",
 		"modules": {
 			"codeissues": [{
 				"name": "tslint"
