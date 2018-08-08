@@ -6,7 +6,7 @@
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "329452319a1c1ba97377a22e966e5a7e",
+			"uid": "c02996106fa17862f0b7a6393b63ee37",
 			"projectName": "JenkinsPlugin_TS_DataTable",
 			"sources": {
 				"baseDir": "%WORKSPACE%"
